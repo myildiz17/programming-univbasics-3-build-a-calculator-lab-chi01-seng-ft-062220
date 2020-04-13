@@ -14,6 +14,12 @@ def division(num1, num2)
   puts div
 end
 
+def multiplication(num1, num2)
+  mul=num1*num2
+  puts mul
+end
+
 addition  1,2 
 subtraction 5,2
 division 6,2
+multiplication 3,1
