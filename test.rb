@@ -24,8 +24,15 @@ def modulo(num1, num2)
   puts mud
 end
 
+def square_root(num)
+  sqroot=Math.sqrt(num)
+  puts sqroot
+end
+
 addition  1,2 
 subtraction 5,2
 division 6,2
 multiplication 3,1
 modulo 7,4
+square_root 9
+
