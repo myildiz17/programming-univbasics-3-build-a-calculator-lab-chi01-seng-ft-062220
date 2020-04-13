@@ -1,11 +1,12 @@
 def addition(num1, num2)
   sum=num1+num2
-  put sum
+  puts sum
   sum
 end
 
 def subtraction(num1, num2)
-
+  dif=num1-num2
+  puts dif
 end
 
 def division(num1, num2)
