@@ -19,7 +19,13 @@ def multiplication(num1, num2)
   puts mul
 end
 
+def modulo(num1, num2)
+  mud=num1%num2
+  puts mud
+end
+
 addition  1,2 
 subtraction 5,2
 division 6,2
 multiplication 3,1
+modulo 7,4
