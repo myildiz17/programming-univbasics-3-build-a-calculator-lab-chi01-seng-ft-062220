@@ -16,4 +16,4 @@ end
 
 addition  1,2 
 subtraction 5,2
-division 6,3
+division 6,2
